@@ -1,1 +1,2 @@
-# This is AITE Computer Science!!
+# AITE Computer Science Club Site!
+
